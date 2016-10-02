@@ -1,0 +1,43 @@
+body{
+    background-color: #f7f7f7;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.panel{
+    margin-top: 2.5em;
+
+}
+
+.panel-body{
+
+}
+
+.btn-form{
+    margin-top: 1em;
+    margin-bottom: -2em;
+}
+
+.btn-first{
+    margin-left: 1em;
+}
+
+.footer-menu{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    height: 1.875em;
+    background-color: #428bca;
+}
+
+a {
+    color: #fff;
+}
+
+.btn-a:hover {
+    background-color: #275d8b;
+    color: #fff;
+}
+.icon{
+    width: 25em;
+}
